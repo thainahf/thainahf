@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá! eu me chamo Thaináh Ferreira.
 
-<!--
-**thainahf/thainahf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou estudando: MUITO 😊😂
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/thainahf">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thainahf&show_icons=true&theme=aura&include_all_comits=true&count_private=true"/>
+<img height="180em" src+"https://github-readme-stats.vercel/app/api/top-langs/?username=thainahf&layout=compact&langs_count=16&theme=aura"/>
+</div>
+<div style="display: inline_block"><br>
+<img align="rigth" alt="th-png" scr="https://images-ext-1.discordapp.net/external/B0cEfgKW33Xgfvv-LRj260iMe2GCuLVV3b5DeoCgqWc/https/share-cdn.picrew.me/shareImg/org/202201/338224_eIHSjd4I.png?width=300&height=300">
+<div/>
+  
